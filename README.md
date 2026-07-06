@@ -1,163 +1,99 @@
-# Janaki Raman K
+# 👋 Hi, I'm Janaki Raman K
 
 ## Electrical Engineer | Industrial Automation | Embedded Systems | Industry 4.0
 
-Welcome to my Professional Engineering Portfolio.
+---
 
-This repository showcases my journey as an Electrical Engineer, highlighting my work experience, technical projects, certifications, internships, research activities, and continuous learning in Industrial Automation, PLC Programming, Embedded Systems, Robotics, IoT, and Industry 4.0 technologies.
+## About Me
+
+I am an Electrical Engineer currently working as a Maintenance Engineer at ESAB India Limited.
+
+I am passionate about Industrial Automation, PLC Programming, Robotics, Embedded Systems, Industrial IoT, and Industry 4.0 technologies.
+
+This repository is my central engineering portfolio where I document my projects, certifications, research, technical learning, and professional growth.
 
 ---
 
-# About Me
+## Current Position
 
-I am an Electrical Engineer passionate about solving industrial problems through engineering and automation.
+**Maintenance Engineer**  
+ESAB India Limited
 
-Currently working as a Maintenance Engineer at ESAB India Limited, I continuously expand my knowledge in industrial automation, PLC programming, robotics, embedded systems, electrical design, and smart manufacturing.
-
-My long-term goal is to become an Automation and Industry 4.0 Engineer capable of designing intelligent industrial systems that improve productivity, efficiency, and reliability.
-
----
-
-# Career Objective
-
-To build a successful engineering career by combining Electrical Engineering fundamentals with Automation, PLC Programming, Robotics, Embedded Systems, Artificial Intelligence, and Industry 4.0 technologies while contributing to innovative industrial solutions.
-
----
-
-# Current Experience
-
-**Maintenance Engineer**
-
-**ESAB India Limited**
-
-Current responsibilities include:
+### Areas of Work
 
 - Preventive Maintenance
 - Breakdown Maintenance
-- Industrial Electrical Systems
-- Machine Troubleshooting
-- Industrial Safety
+- Electrical Troubleshooting
+- Industrial Machines
 - Root Cause Analysis
-- Continuous Improvement Activities
+- Continuous Improvement
 
 ---
 
-# Technical Skills
+## Engineering Domains
 
-## Electrical Engineering
-
-- Electrical Machines
-- Power Systems
-- Protection Systems
-- Electrical Drives
-
-## Industrial Automation
-
-- PLC Programming
-- HMI
-- Industrial Sensors
-- VFD
-- Industrial Networking
-
-## Embedded Systems
-
-- Arduino
-- ESP32
-- Raspberry Pi
-- IoT Development
-
-## Programming
-
-- C
-- Python (Learning)
-- Git
-- GitHub
-
-## Software
-
-- TIA Portal
-- AutoCAD Electrical
-- VS Code
-- Microsoft Office
-
----
-
-# Featured Projects
-
-- Smart Room Occupancy Counter
-- Energy Harvesting from Two Wheeler Wheels
-- Industrial PLC Projects
-- Embedded Systems Projects
-- IoT Projects
-
-Detailed documentation is available inside the respective project repositories.
-
----
-
-# Certifications
-
-Professional certifications completed in:
-
-- Industrial Automation
-- Embedded Systems
 - Electrical Engineering
-- Industrial Safety
-- Online Technical Courses
-
----
-
-# Research & Innovation
-
-Current areas of interest include:
-
-- Smart Manufacturing
+- Industrial Automation
+- PLC Programming
+- Embedded Systems
+- Robotics
+- Industrial IoT
 - Industry 4.0
-- Renewable Energy
-- Industrial Robotics
-- Artificial Intelligence for Manufacturing
-- Predictive Maintenance
+- Smart Manufacturing
 
 ---
 
-# Current Learning
+## Featured Projects
+
+| Project | Status |
+|---------|--------|
+| Smart Room Occupancy Counter | ✅ |
+| Energy Harvesting System | 🚧 |
+| PLC Projects | 🚧 |
+| Embedded Systems | 🚧 |
+| IoT Projects | 🚧 |
+
+---
+
+## Repository Structure
+
+```
+01_About_Me
+02_Resume
+03_Work_Experience
+04_Featured_Projects
+05_Certifications
+06_Internships
+07_Research
+08_Achievements
+09_Technical_Documents
+10_Assets
+```
+
+---
+
+## Current Learning
 
 - Siemens PLC
-- Industrial Robotics
-- Python Programming
-- Machine Vision
-- Industrial Communication
+- TIA Portal
+- Python
 - Git & GitHub
+- Industrial Robotics
+- Machine Vision
 - German Language
 
 ---
 
-# Career Roadmap
+## Connect
 
-- Automation Engineer
-- Robotics Engineer
-- Industry 4.0 Engineer
-- Controls Engineer
-- Technical Project Engineer
-- Engineering Consultant
+**LinkedIn**
 
----
+linkedin.com/in/janaki-ramank
 
-# Connect With Me
+**GitHub**
 
-LinkedIn
+github.com/Rocky3679
 
-https://linkedin.com/in/janaki-ramank
-
-GitHub
-
-https://github.com/Rocky3679
-
-Email
+**Email**
 
 electromaestrohub@gmail.com
-
----
-
-Thank you for visiting my Engineering Portfolio.
-
-This repository will continue to grow as I complete new projects, certifications, research work, and industrial experience.
